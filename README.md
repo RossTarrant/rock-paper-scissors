@@ -30,4 +30,4 @@ _**If I was to spend more time on this project I would:**_
 
 - Attempt to solve the issue where the previous text that has been updated does not seem to disappear, or at least that seems to be what the problem is.
 
-- Extend the app further to add extra functionality such as a reset button, 
+- Extend the app further to add extra functionality such as a reset button, multiplayer or further game modes.
