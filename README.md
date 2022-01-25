@@ -12,9 +12,11 @@ _**Some of the things I have learned from completing this project:**_
 
 - Javascript functions work very similar to that of Python, which I have studied before. However, there are more interesting and exciting features of Javascript functions that I am looking forward to trying in the future such as: **_arrow functions, function expressions and function callbacks_**.
 
-- TBC Graphical user interface design (using flexbox)
+- From previous projects, I was instantly able to set up the interface in the way I had in mind thanks to flexbox. I also was able to import a custom font that I downloaded from Google.
 
-- TBC Graphical user interface implementation (using JS+DOM)
+- I have developed a good understanding on how JavaScript can be used to dynamically add, remove and edit HTML elements on the page. I can see many ways this can be useful for future projects and am starting to understand how many websites I currently use might use these methods to add/change content on the webpage.
+
+- I have learned a lot about event listeners and how they can be attached to an HTML element to listen for various events such as clicks, hovers etc.
 
 _**Some of the challenges I faced during this project:**_
 
@@ -22,12 +24,10 @@ _**Some of the challenges I faced during this project:**_
 
 - Creating a random number using the Math.random function produced some unexpected outputs (e.g. outputting floats rather than integers), I soon rectified this using Math.floor.
 
-- TBC Graphical user interface design (using flexbox)
-
-- TBC Graphical user interface implementation (using JS+DOM)
+- Understanding the behaviours of event listeners and query selectors and incorporating them into my code. 
 
 _**If I was to spend more time on this project I would:**_
 
-- TBC
+- Attempt to solve the issue where the previous text that has been updated does not seem to disappear, or at least that seems to be what the problem is.
 
-- TBC
+- Extend the app further to add extra functionality such as a reset button, 
