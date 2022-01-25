@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'JAH';
+    src: url(fonts/JustAnotherHand-Regular.ttf);
+}
+body{
+    font-family: 'JAH';
+    background-color: #f5e6ab;
+    text-align: center;
+}
+button, img{
+    width: 250px;
+    height: 250px;
+    outline: none;
+}
+button{
+    text-decoration: none;
+}
+button:hover{
+    border: black solid 10px;
+}
+h1{
+    font-size: 100px;
+}
+p{
+    font-size: 50px;
+}
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
